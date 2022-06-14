@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886272885402",
+    "project_id": "ndx-v3",
+    "storage_bucket": "ndx-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886272885402:android:d2bca090eb8a56e6a71523",
+        "android_client_info": {
+          "package_name": "com.ninestars.newspublishers.newsdx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886272885402-hhi4ds6iuq5k3pdmqg9sgpcif5ulvlsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ninestars.newspublishers.newsdx",
+            "certificate_hash": "6a1ea8560b899d7606fe85542d00e282b517bd82"
+          }
+        },
+        {
+          "client_id": "886272885402-egadbjc0agls2bis8vjoc7gkierem2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXl1BFHbJXjWI2ULF3ALfxry5WzwYBPdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886272885402-egadbjc0agls2bis8vjoc7gkierem2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
